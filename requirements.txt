@@ -1,0 +1,10 @@
+numpy==1.23.5
+mxnet
+torch==2.0.0
+torchvision==0.15.1
+tensorflow==2.15.0
+tensorflow-probability==0.20.0
+jax[cpu]==0.4.13
+flax==0.7.0
+d2l==1.0.3
+tensorflow_datasets
